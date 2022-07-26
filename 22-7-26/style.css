@@ -1,0 +1,16 @@
+
+body {
+    background-color: black;
+    color: white;
+    border: 2px red solid;
+}
+
+h1 {
+    border: 0.8em green dotted;
+    display: inline-flex;
+}
+
+p {
+    border: 1em plum dashed;
+    display: inline;
+}
