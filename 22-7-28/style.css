@@ -1,0 +1,22 @@
+html {
+    color: white;
+    background-color: black;
+    font-family: cursive;
+    margin: 50px;
+    border: 2px solid red;
+}
+
+h1 {
+    border: 2px dotted green;
+    display: inline;
+}
+
+p {
+    border: 5px dashed blue;
+    display: block;
+}
+
+ul {
+    border: 7px dotted purple;
+    display: block;
+}
